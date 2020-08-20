@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MessageExchanger</string>
+    <string name="hint_ip_address">IP address</string>
+    <string name="ip_prefix">Your device\'s IP:\t</string>
+    <string name="btn_text_send">Send</string>
+    <string name="input_message_hint">Enter Text Here</string>
+    <string name="input_ip_hint">Enter Target IP Here</string>
+    <string name="port_hint">Enter Port Here</string>
+    <string name="radio_name_tcp_ip">TCP/IP</string>
+    <string name="radio_name_udp">UDP</string>
+    <string name="btn_set_port_header">Set Port</string>
+</resources>
